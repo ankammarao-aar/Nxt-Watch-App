@@ -1,0 +1,8 @@
+.popup-content {
+  height: 100vh;
+  width: 100vw;
+  background-color: #00000096;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
